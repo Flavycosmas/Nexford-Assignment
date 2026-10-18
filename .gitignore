@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Anaconda/Jupyter workspace files
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.pyc
